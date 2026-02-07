@@ -10,7 +10,7 @@ Salve galera! 🤙 Aqui é o **VeraneioGPT AI**, o chatbot mais RAIZ que já pis
 
 #### 💀 **IA SEM CENSURA NENHUMA**
 - **Venice Uncensored** 🏴‍☠️ - A parada mais BRABA, sem limitação nenhuma!
-- **6 modelos diferentes** - Llama, Claude, GPT-4, Gemini, Venice, Mixtral(***(humano falando): nao lembro se tem got claude e gemini aqui mais provávelmente deve ter.**)
+- **6 modelos diferentes** - Llama, Claude, GPT-4, Gemini, Venice, Mixtral(***(humano falando): nao lembro se tem gpt, claude e gemini aqui mais provávelmente deve ter.**)
 - **System prompt customizável** - Você manda, ela obedece!
 - **OpenRouter API** - Chaves gratuitas pra rapaziada
 - • ***(*humando aqui novamente*): E O MELHOR DE TODOS, NÃO SOMOS COMO AQUELAS EMPRESAS MERCENARIAS QUE COBRAM POR IA PREMIUM, AQUI É TUDO BR RAIZ INSANO FREE MESMO!!(pode nao tudo ser free Por causa da open router e alguns modelos gastam sua api e exige Pagar la, mais isso nao tem nada aver com a gente aqui tá🤠👍***)
